@@ -1,10 +1,13 @@
 ﻿
+<<<<<<< HEAD
 ﻿﻿Krystian Z
->>>>>>> f176c82da4a0b2621b9900381d7cfdbb607a6513
+
+﻿Krystian Z
+>>>>>>> kuba_baranowski
 askjdhasjkdgajdADG	YEQ	UYQDJahdvAJDF1TYEavajhvAJDV
 aslkdjaslk
 sadkasjwionc,xmnclkqs
-
+jest
 
 dashdaks
 
