@@ -1,5 +1,4 @@
-Krystian Z
-fdfdfdsfds
+
 roijjgroigr grgrgrgr
 ijfejfeijfeife fefefefe
 
@@ -16,14 +15,36 @@ fewgnfnjfenjfe
 ### new entry added by Mariusz
 fdijfdjoirhggr
 gr
+fnbiufewhfewiuhfewuhfewfew
+gr
+gr
+gr
+gr
+gr
+<<<<<<< HEAD
+grgrgrnjgrnjgrbnjbjbjb
+grgrgrgr
 
-gr
-gr
-gr
-gr
-gr
+gf
+gd
+
+
+
+gf
+gf
+gfgf
+gf
+gf
+gf
+gf
+gfgf
+=======
 grgrgrnjgrnjrbnjbjbjb
+<<<<<<< HEAD
 
 
 
 Doda³ Rafa³ :)
+=======
+>>>>>>> efe8ec012e2263cdeb37b578d702c57a7814b278
+>>>>>>> 5bc9f8cb3198b03dfc074aabbcc0ec87c74c24f7
