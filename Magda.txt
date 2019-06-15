@@ -1,7 +1,6 @@
 
 roijjgroigr grgrgrgr
 ijfejfeijfeife fefefefe
-iireoigri
 
 grjoijgri
 gr
@@ -12,6 +11,8 @@ lkokjojfjifdjfi
 fekofejifehoife
 fewgnfnjfenjfe
 
+
+### new entry added by Mariusz
 fdijfdjoirhggr
 gr
 fnbiufewhfewiuhfewuhfewfew
@@ -20,6 +21,7 @@ gr
 gr
 gr
 gr
+<<<<<<< HEAD
 grgrgrnjgrnjgrbnjbjbjb
 grgrgrgr
 
@@ -36,3 +38,6 @@ gf
 gf
 gf
 gfgf
+=======
+grgrgrnjgrnjrbnjbjbjb
+>>>>>>> efe8ec012e2263cdeb37b578d702c57a7814b278
