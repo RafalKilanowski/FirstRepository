@@ -25,8 +25,7 @@ gr
 grgrgrnjgrnjgrbnjbjbjb
 grgrgrgr
 
-gf
-gd
+
 
 
 
@@ -40,4 +39,11 @@ gf
 gfgf
 =======
 grgrgrnjgrnjrbnjbjbjb
+<<<<<<< HEAD
+
+
+
+Dodaｳ Rafaｳ :)
+=======
 >>>>>>> efe8ec012e2263cdeb37b578d702c57a7814b278
+>>>>>>> 5bc9f8cb3198b03dfc074aabbcc0ec87c74c24f7
